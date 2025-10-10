@@ -143,6 +143,6 @@ Saya senang berkenalan dengan orang-orang baru! Jangan ragu untuk menyapa atau b
 
 <div align="center">
   
-⭐️ From [Amira Zafira Raihana](https://github.com/YOUR_USERNAME) with 💕
+⭐️ From [Aqilla feranda Naura.k](https://github.com/YOUR_USERNAME) with 💕
 
 </div>
