@@ -1,39 +1,29 @@
-<h1 align="center">🌸✨ Welcome to My Colorful Project ✨🌸</h1>
+# 🌈 WordPress Aesthetic — Project Name
+> ✨ Tema WordPress cantik, penuh warna, dan responsif. Siap dipakai untuk portfolio, blog, atau toko kecil.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-pink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge" />
-</p>
-
----
-
-## 🎀 **Deskripsi Proyek**
-
-Selamat datang di dunia penuh warna! 🌈  
-Proyek ini dibuat dengan tujuan untuk menampilkan desain yang **aesthetic**, **cerah**, dan **menyenangkan untuk dilihat**.  
-Menggabungkan seni dan logika — karena kode juga bisa indah 💻💖
+[![License](https://img.shields.io/badge/license-MIT-pink?style=flat&logo=github)](./LICENSE)
+[![WP Version](https://img.shields.io/badge/WordPress-%3E=5.0-purple?style=flat&logo=wordpress)](#)
+[![PHP](https://img.shields.io/badge/PHP-7.4%2B-yellow?style=flat&logo=php)](#)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat)](#)
 
 ---
 
-## 🌸 **Fitur Utama**
+## 🎨 Preview
+<img src="https://via.placeholder.com/900x320/ffe3f8/5b2ca5?text=Header+Hero+Preview" alt="Preview" width="100%">
 
-✨ Desain antarmuka penuh warna dan lembut  
-🎨 Penggunaan emoji untuk memperindah tampilan  
-🧠 Struktur kode yang mudah dipahami  
-🌷 Dapat dikustomisasi sesuai tema  
+> Untuk GIF demo, ganti link di bawah dengan GIF repo-mu:
+![Demo GIF](https://via.placeholder.com/900x300/fff0b3/ff6b6b?text=Demo+GIF)
 
 ---
 
-## 🚀 **Cara Menjalankan**
+## 🚀 Fitur Utama
+- Desain aesthetic, warna-warna vibran tetapi tetap profesional.
+- Responsif (mobile-first).
+- Header hero penuh warna + CTA.
+- Template blog, halaman statis, dan portofolio.
+- Support Customizer & Gutenberg blocks.
+- Child-theme ready dan dokumentasi singkat.
 
-```bash
-# 1️⃣ Clone repo ini
-git clone https://github.com/username/projectname.git
+---
 
-# 2️⃣ Masuk ke folder
-cd projectname
-
-# 3️⃣ Jalankan program
-g++ main.cpp -o app
-./app
+## 🧩 Struktur Folder
