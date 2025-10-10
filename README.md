@@ -6,13 +6,6 @@
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-yellow?style=flat&logo=php)](#)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat)](#)
 
----
-
-## 🎨 Preview
-<img src="https://via.placeholder.com/900x320/ffe3f8/5b2ca5?text=Header+Hero+Preview" alt="Preview" width="100%">
-
-> Untuk GIF demo, ganti link di bawah dengan GIF repo-mu:
-![Demo GIF](https://via.placeholder.com/900x300/fff0b3/ff6b6b?text=Demo+GIF)
 
 ---
 
@@ -24,6 +17,3 @@
 - Support Customizer & Gutenberg blocks.
 - Child-theme ready dan dokumentasi singkat.
 
----
-
-## 🧩 Struktur Folder
