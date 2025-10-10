@@ -1,4 +1,4 @@
-# 🌈 WordPress Aesthetic — Project Name
+# 🌈 WordPress Aesthetic — Projects Aqilla 
 > ✨ Tema WordPress cantik, penuh warna, dan responsif. Siap dipakai untuk portfolio, blog, atau toko kecil.
 
 [![License](https://img.shields.io/badge/license-MIT-pink?style=flat&logo=github)](./LICENSE)
