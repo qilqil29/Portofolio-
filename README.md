@@ -22,7 +22,7 @@
 
 ```javascript
 const amira = {
-    nama: "Amira Zafira Raihana",
+    nama: "Aqilla feranda n.k",
     lokasi: "Indonesia 🇮🇩",
     role: "Web Developer",
     hobi: ["Coding", "Design", "Photography", "Reading"],
